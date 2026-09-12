@@ -55,7 +55,7 @@ git add .
 git commit -m "Mensaje descriptivo del cambio"
 git push origin main
 ```
-Asegúrate de que tus capturas o recursos se encuentren guardados en la carpeta correspondiente para que se visualicen correctamente en la plataforma:
+Asegúrate de que tus capturas o recursos se encuentren guardados en la carpeta correspondiente para que se visualicen correctamente en la plataform asi como el mio:
 
 <!-- REQUISITO: Una imagen que se vea en GitHub usando ruta relativa -->
-![Estructura del Repositorio](/img/Captura_1.png)
+![Estructura del Repositorio](../img/Captura_1.png)
